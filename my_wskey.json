@@ -1,0 +1,7 @@
+{
+    "key": "YOUR_KEY_HERE",
+    "secret": "YOUR_SECRET_HERE",
+    "scopes": "WorldCatMetadataAPI",
+    "principal_id": "YOUR_USER_PRINCIPAL_ID_HERE",
+    "principal_idns": "YOUR_USER_PRINCIPAL_IDNS_HERE"
+}
