@@ -1,5 +1,5 @@
 # PyCat
-Code for ELSUG presentation
+Code for poster presentation
 
 Code requires the following libraries: io, json, os, pandas, bookops_worldcat, and pymarc
 
